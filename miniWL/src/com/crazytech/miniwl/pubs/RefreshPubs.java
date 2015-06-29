@@ -211,10 +211,10 @@ public class RefreshPubs extends MyAsyncTask{
 						values.put("description", c.getString("description"));
 						values.put("locale", c.getString("locale"));
 						values.put("issue_date", c.getString("issue_date"));
-						if (table.equals("pubs_wt")) {
+						/*if (table.equals("pubs_wt")) {
 							values.put("dt_start", c.getString("dt_start"));
 							values.put("dt_start", c.getString("dt_end"));
-						}
+						}*/
 						values.put("url", c.getString("url"));
 						values.put("imgurl", c.getString("imgurl"));
 						db.insert(table, "", values);
