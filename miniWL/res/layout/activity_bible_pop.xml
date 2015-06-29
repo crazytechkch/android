@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res/wei.mark.standout.views"
+    android:id="@+id/linlay_bible"
+    android:orientation="vertical"
+    android:padding="0dip"
+    android:background="@color/white_tr"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    
+	<FrameLayout
+       android:layout_weight="1"
+	    android:layout_width="fill_parent"
+	    android:layout_height="0dp" >
+	    <FrameLayout
+	       android:layout_width="fill_parent"
+		    android:layout_height="fill_parent" >
+		    <WebView  
+				android:id="@+id/webv_bible_pop"
+			    android:layout_width="fill_parent"
+			    android:layout_height="fill_parent"
+			    android:background="@color/white_tr"
+			/>
+	
+	
+	    </FrameLayout>
+	    <Button
+	        android:id="@+id/button_bible_left_pop"
+	        android:layout_width="40dp"
+	        android:layout_height="37dp"
+	        android:layout_gravity="left|bottom"/>
+		<Button
+	        android:id="@+id/button_bible_right_pop"
+	        android:layout_width="40dp"
+	        android:layout_height="37dp"
+	        android:layout_gravity="right|bottom"/>
+    </FrameLayout>
+    
+    <LinearLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:weightSum="1.0"
+	    android:gravity="center_horizontal|bottom"
+	    android:background="@color/white_tr"> 
+		<wei.mark.standout.views.StandOutSpinner 
+		    android:id="@+id/bi_book_spinner_pop"
+		    android:layout_width="0dip"
+		    android:layout_weight="0.6"
+		    android:layout_height="wrap_content"
+		    android:background="@drawable/list_selector"
+		    android:prompt="@string/bible"
+		/>
+		<wei.mark.standout.views.StandOutSpinner 
+		    android:id="@+id/bi_chap_spinner_pop"
+		    android:layout_width="0dip"
+		    android:layout_weight="0.4"
+		    android:layout_height="wrap_content"
+		    android:background="@drawable/list_selector"
+		    android:prompt="@string/chapter"
+		/>
+		<!-- 
+		<wei.mark.standout.views.StandOutSpinner
+		    android:id="@+id/bi_verse_spinner_pop"
+		    android:layout_width="0dip"
+		    android:layout_weight="0.33"
+		    android:layout_height="wrap_content"
+		    android:prompt="@string/verse"/> -->
+
+
+    </LinearLayout>
+
+</LinearLayout>

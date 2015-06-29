@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <FrameLayout
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content" >
+
+	        <FrameLayout
+	            android:layout_width="fill_parent"
+	            android:layout_height="fill_parent" >
+
+	            <ListView
+	                android:id="@+id/list"
+	                android:layout_width="match_parent"
+	                android:layout_height="wrap_content"
+	                android:fadeScrollbars="false" >
+	            </ListView>
+	        </FrameLayout>
+
+	        <LinearLayout
+	            android:layout_width="wrap_content"
+	            android:layout_height="match_parent"
+	            android:layout_gravity="right|center_vertical"
+	            android:orientation="vertical" >
+
+	            <ImageButton
+	                android:id="@+id/btn_up"
+	                android:layout_width="20dp"
+	                android:layout_height="0dp"
+	                android:layout_weight="1"
+	                android:background="@drawable/color_sel_white"
+	                android:src="@drawable/ic_up" />
+
+	            <Button
+	                android:id="@+id/btn_add"
+	                android:layout_width="20dp"
+	                android:layout_height="0dp"
+	                android:layout_weight="1"
+	                android:background="@drawable/color_sel_white"
+	                android:text="+" />
+
+	            <ImageButton
+	                android:id="@+id/btn_down"
+	                android:layout_width="20dp"
+	                android:layout_height="0dp"
+	                android:layout_weight="1"
+	                android:background="@drawable/color_sel_white"
+	                android:src="@drawable/ic_down" />
+	        </LinearLayout>
+	    </FrameLayout>
+
+</LinearLayout>

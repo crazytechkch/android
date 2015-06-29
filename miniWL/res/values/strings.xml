@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+    <!-- Nav Menu -->
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    
+    <!-- Install Bible -->
+    <string name="copy_bible_pack">Copying Bible package…</string>
+    <string name="install_bible">Installing Bible for first use. This may take a few minutes.</string>
+    <string name="install_daytext">Installing Daytext</string>
+    
+    <!-- Bible -->
+    <string name="bible">Bible</string>
+    <string name="chapter">Chapter</string>
+    <string name="verse">Verse</string>
+    <string-array name="bi_bk_array">
+        <item>Genesis</item>
+        <item>Exodus</item>
+        <item>Leviticus</item>
+        <item>Numbers</item>
+        <item>Deuteronomy</item>
+        <item>Joshua</item>
+        <item>Judges</item>
+        <item>Ruth</item>
+        <item>1 Samuel</item>
+        <item>2 Samuel</item>
+        <item>1 Kings</item>
+        <item>2 Kings</item>
+        <item>1 Chronicles</item>
+        <item>2 Chronicles</item>
+        <item>Ezra</item>
+        <item>Nehemiah</item>
+        <item>Esther</item>
+        <item>Job</item>
+        <item>Psalms</item>
+        <item>Proverbs</item>
+        <item>Ecclesiastes</item>
+        <item>Song of Solomon</item>
+        <item>Isaiah</item>
+        <item>Jeremiah</item>
+        <item>Lamentations</item>
+        <item>Ezekiel</item>
+        <item>Daniel</item>
+        <item>Hosea</item>
+        <item>Joel</item>
+        <item>Amos</item>
+        <item>Obadiah</item>
+        <item>Jonah</item>
+        <item>Micah</item>
+        <item>Nahum</item>
+        <item>Habakkuk</item>
+        <item>Zephaniah</item>
+        <item>Haggai</item>
+        <item>Zechariah</item>
+        <item>Malachi</item>
+        <item>Matthew</item>
+        <item>Mark</item>
+        <item>Luke</item>
+        <item>John</item>
+        <item>Acts</item>
+        <item>Romans</item>
+        <item>1 Corinthians</item>
+        <item>2 Corinthians</item>
+        <item>Galatians</item>
+        <item>Ephesians</item>
+        <item>Philippians</item>
+        <item>Colossians</item>
+        <item>1 Thessalonians</item>
+        <item>2 Thessalonians</item>
+        <item>1 Timothy</item>
+        <item>2 Timothy</item>
+        <item>Titus</item>
+        <item>Philemon</item>
+        <item>Hebrews</item>
+        <item>James</item>
+        <item>1 Peter</item>
+        <item>2 Peter</item>
+        <item>1 John</item>
+        <item>2 John</item>
+        <item>3 John</item>
+        <item>Jude</item>
+        <item>Revelation</item>
+    </string-array>
+    
+    <!-- Daily Text -->
+    <string name="daily_text">Daily Text</string>
+    
+    <!-- Floating Window -->
+    <string name="float_daytext">mini Day Text</string>
+    <string name="float_bible">mini Bible</string>
+    <string name="exit_app">Exit miniWL</string>
+    <string name="go_to_app">Go to miniWL</string>
+    
+    <!-- Ministry -->
+    <string name="field">Field</string>
+    <string name="field_records">Field Records</string>
+    <string name="add_field_record">Add Field Record</string>
+    <string name="add_householder">Add Householder</string>
+    <string name="householder">Householder</string>
+    <string name="br_short">Br</string>
+    <string name="bk_short">Bk</string>
+    <string name="mg_short">Mg</string>
+    <string name="rv_short">RV</string>
+    <string name="bs_short">BS</string>
+    <string name="fm_short">FM</string>
+    <string name="magazines">Magazines</string>
+    <string name="rv">Return Visits</string>
+    <string name="bs">Bible Studies</string>
+    <string name="visits">Visits</string>
+    <string name="my_ministry">My Ministry</string>
+    <string name="field_service_report">Field Service Report</string>
+    <string name="overseer_name">Overseer\'s Name</string>
+    <string name="ms_sum_time">Contributed %1$s this month</string>
+    <string name="ms_c_time">Used %1$s</string>
+    <string name="ms_c_pubs">Placed %1$s publications</string>
+    <string name="ms_c_rv">%1$s return visits recorded</string>
+    <string name="ms_bs">Conducted %1$s bible studies</string>
+    <string name="ms_rv">Made %1$s return visits</string>
+    <string name="ms_areBs">%1$s are bible studies</string>
+    <string name="ms_pending">%1$s pending</string>
+    <string name="ms_goal">My Goals</string>
+    <string name="ms_goal_hours">Use %1$s(%2$s) hours for witnessing</string>
+    <string name="ms_goal_bs">Conduct %1$s(%2$s) bible studies</string>
+    <string name="ms_goal_rv">Make %1$s(%2$s) return visits</string>
+    <string name="ms_goal_pubs">I want to place %1$s(%2$s) publications</string>
+    <string name="hours_in_ministry">Hours in ministry</string>
+    <string name="preaching">Preaching the Good News&#8230;</string>
+    <string name="bible_student">Bible Student</string>
+    
+    <!-- Map -->
+    <string name="set_as_home">Set as Home</string>
+    <string name="set_householder">Set Householder</string>
+    
+    <!-- Publications -->
+    <string name="publications">Publications</string>
+    <string name="pubs_watchtower">Watchtower</string>
+    <string name="pubs_awake">Awake!</string>
+    <string name="pubs_books">Books</string>
+    <string name="pubs_yearbooks">Yearbooks</string>
+    <string name="pubs_brochures">Brochures</string>
+    <string name="pubs_booklets">Booklets</string>
+    <string name="pubs_tract">Tract</string>
+    <string name="issue_year">Issue Year</string>
+    <string name="issue_month">Issue Month</string>
+    <string name="issue_day">Issue Day</string>
+    <string name="issue_of_the_month">Issue of the Month</string>
+    <string-array name="pubs_array">
+        <item>Watchtower</item>
+        <item>Awake!</item>
+        <item>Books</item>
+        <item>Yearbooks</item>
+        <item>Brochures</item>
+        <item>Booklets</item>
+    </string-array>
+    
+    <!-- WOL -->
+    <string name="wol">WOL</string>
+    <string name="load_wol">Loading Watchtower Online Library</string>
+    
+    <!-- Householder -->
+    <string name="street_name">Street Name</string>
+    <string name="address">Address</string>
+    <string name="house_to_house">House to House</string>
+    <string name="house_apt_no">House / Apt. No.</string>
+    <string name="date">Date</string>
+    <string name="name_first">First Name</string>
+    <string name="name_last">Last Name</string>
+    <string name="set_date">set date</string>
+    <string name="placement">Placement</string>
+    <string name="remarks">Remarks</string>
+    <string name="number_short">No.</string>
+    <string name="map_it">Map It</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="symbol">Symbol</string>
+    <string name="not_home">Not Home</string>
+    <string name="busy">Busy</string>
+    <string name="call_again">Call Again</string>
+    <string-array name="array_gender">
+        <item>Gender</item>
+        <item>male</item>
+        <item>female</item>
+    </string-array>
+    <string name="send_sms">Send Message</string>
+    <string name="send_email">Send Email</string>
+    <string name="new_field_service">New Field Service</string>
+    <string name="name">Name</string>
+    <string name="territory_name">Territory Name</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="informal_witnessing">Informal Witnessing</string>
+    <string name="return_visit">Return Visit</string>
+    <string name="bible_study">Bible Study</string>
+    <string name="male">male</string>
+    <string name="female">female</string>
+    <string name="not_ended">Not Ended…</string>
+    <string name="contact">Contact</string>
+    <string name="phone_main">Main Phone</string>
+    <string name="phone_home">Home Phone</string>
+    <string name="email">Email</string>
+    <string name="preferred_language">Preferred Language</string>
+    <string name="country_of_origin">Country of Origin</string>
+    <string name="next_visit">Next Visit</string>
+    <string name="next_visit_neg">Next Visit Unavailable</string>
+    <string name="no_contact">No Contact</string>
+    <string name="make_call">Make Call</string>
+    <string name="no_phone_app">No Phone Application</string>
+    <string name="phone_not_stored">Phone Not Stored</string>
+    <string name="email_not_stored">Email Not Stored</string>
+    <string name="total_space">Total Space</string>
+    
+    <!-- Map -->
+    <string name="map">Map</string>
+    
+    <!-- Locale -->
+    <string-array name="applang">
+        <item>Bahasa Melayu</item>
+        <item>Deutsch</item>
+        <item>English</item>
+        <item>Español</item>
+        <item>Français</item>
+        <item>日本語</item>
+        <item>中文简体</item>
+        <item>한국어</item>
+    </string-array>
+    <string name="locale_ms">Bahasa Melayu</string>
+    <string name="locale_en">English</string>
+    <string name="locale_es">Español</string>
+    <string name="locale_fr">Français</string>
+    <string name="locale_de">Deutsch</string>
+    <string name="locale_ja">日本語</string>
+    <string name="locale_zh">中文简体</string>
+    <string name="locale_ko">한국어</string>
+    
+    <!-- PDF -->
+    <string name="open_pdf">Open PDF</string>
+    <string-array name="pdf_dialog">
+        <item>Open PDF</item>
+        <item>Delete</item>
+    </string-array>
+    
+    <!-- Time -->
+    <string name="year">Year</string>
+    <string name="month">Month</string>
+    <string name="hours_short">hrs</string>
+    <string name="minutes_short">mins</string>
+    <string name="duration">Duration</string>
+    <string name="start_date_time">Start Date &amp; Time</string>
+    <string name="end_date_time">End Date &amp; Time</string>
+    <string name="today">TODAY</string>
+    
+    <!-- App Wide -->
+    <string name="app_name">miniBIBLE</string>
+    <string name="action_settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="about_text">
+        ©CrazyTech, Kuching
+        \n\nNo ads, no in-app purchases, no charges at all!!
+        \n\nVisit us at <a href="http://mbi.crazytech.co">mbi.crazytech.co</a>
+        \n support@crazytech.co</string>
+    <string name="search">Search</string>
+    <string name="view">View</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="delete_all">Delete All</string>
+    <string name="confirm_delete">Confirm Delete</string>
+    <string name="confirm_delete_all">Do you want to delete all items?</string>
+    <string name="none">None</string>
+    <string name="close">Close</string>
+    <string name="downloading">Downloading</string>
+    <string name="download_start">Starting Download…</string>
+    <string name="download_failed">Download Failed</string>
+    <string name="download_completed">Download Completed!</string>
+    <string name="download_cancel">Cancel Download?</string>
+    <string name="download_cancelled">Download Cancelled</string>
+    <string name="file_deleted">Successfully Deleted</string>
+    <string name="server_conn_failed">Server Connection Failed…</string>
+    <string name="yup">Yup</string>
+    <string name="nope">Nope</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_back">Back</string>
+    <string name="file_not_found">File not found</string>
+    <string name="hidden">hidden</string>
+    <string name="initialising">Initialising</string>
+    <string name="installing">Installing</string>
+    <string name="mobile">Mobile</string>
+    <string name="network_not_available">No Network Found</string>
+    <string name="network_not_available_text">Looks like you\'re not connected to the Internet. Connect now?</string>
+    <string name="no_pdf_viewer">No PDF viewer available in your device</string>
+    <string name="not_found">not found</string>
+    <string name="popout">Pop Out</string>
+    <string name="tap_to_close">tap to close</string>
+    <string name="tap_to_restore">tap to restore</string>
+    <string name="no_text">No text available</string>
+    <string name="wifi">WiFi</string>
+    <string name="loading">loading</string>
+    <string name="check_update">Check for updates</string>
+    <string name="check_version">Checking current version…</string>
+    <string name="updating">Updating…</string>
+    <string name="downloading_apk">Downloading new version…</string>
+    <string name="is_latest">Using latest version!</string>
+    <string name="successful">Successful!</string>
+    <string name="version">Version</string>
+    <string name="backup">Backup</string>
+    <string name="performing_backup">Performing Backup</string>
+	<string name="restore">Restore</string>
+	<string name="restoring">Restoring</string>
+	<string name="go">Go</string>
+	<string name="thank_you">Thank You</string>
+	<string name="exit_app_confirm">Do you want to exit %1$s ?</string>
+	
+	<string name="pubs_okm">Our Kingdom Ministry</string>
+	<string name="tr_short">Tr</string>
+</resources>

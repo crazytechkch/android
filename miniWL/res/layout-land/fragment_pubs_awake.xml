@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:padding="0dip" >
+	<LinearLayout 
+	    android:layout_weight="1"
+	    android:layout_width="fill_parent"
+	    android:layout_height="0dp"
+	    android:orientation="vertical">
+    <TextView
+        android:id="@+id/pubsawake_textview_year"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/year"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+   
+    <GridView
+        android:id="@+id/pubsawake_gridview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:verticalSpacing="10dp"
+		android:horizontalSpacing="10dp"
+        android:stretchMode="columnWidth"
+		android:gravity="center"
+        android:numColumns="5" />
+    </LinearLayout>
+    <include layout="@layout/shared_spinners_year"/>
+</LinearLayout>

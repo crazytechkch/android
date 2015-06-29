@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="48dp" 
+    android:background="@drawable/color_sel_white_90">
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:contentDescription="@string/desc_list_item_icon"
+        android:src="@drawable/ic_home"
+        android:layout_centerVertical="true" />
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_toRightOf="@id/icon"
+        android:minHeight="?android:attr/listPreferredItemHeightSmall"
+        android:textAppearance="?android:attr/textAppearanceListItemSmall"
+        android:textColor="@color/list_item_title"
+        android:gravity="center_vertical"/>
+    
+    <!-- <TextView android:id="@+id/counter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/counter_bg"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="8dp"
+        android:visibility="gone"
+        android:textColor="@color/counter_text_color"/>-->
+
+    <LinearLayout
+        android:id="@+id/timer_controls"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:gravity="center_vertical"
+        android:layout_centerVertical="true"
+        android:visibility="gone" >
+
+        <ImageButton
+            android:id="@+id/timer_start"
+            android:layout_width="30dp"
+            android:layout_height="25dp"
+            android:background="@drawable/background_sel"
+            android:scaleType="fitCenter"
+            android:src="@drawable/playback_play" />
+		<View 
+		    android:layout_height="match_parent"
+		    android:layout_width="3dp"/>
+        <ImageButton
+            android:id="@+id/timer_stop"
+            android:layout_width="30dp"
+            android:layout_height="25dp"
+            android:background="@drawable/background_sel"
+            android:scaleType="fitCenter"
+            android:src="@drawable/playback_stop" />
+		<View 
+		    android:layout_height="match_parent"
+		    android:layout_width="3dp"/>
+        <ImageButton
+            android:id="@+id/timer_add"
+            android:layout_width="30dp"
+            android:layout_height="25dp"
+            android:background="@drawable/background_sel"
+            android:scaleType="fitCenter"
+            android:src="@drawable/plus" />
+    </LinearLayout>
+
+</RelativeLayout>

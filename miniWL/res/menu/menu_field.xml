@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/field_menuitem_sendsms"
+        android:title="@string/send_sms"/>
+    <item android:id="@+id/field_menuitem_sendemail"
+        android:title="@string/send_email"/>
+</menu>

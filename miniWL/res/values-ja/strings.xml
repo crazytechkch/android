@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- nav menu items -->
+    <string name="daily_text">日々の聖句</string>
+    <string name="bible">聖書</string>
+    <string name="wol">オンライン・ライブラリ</string>
+    
+    <!-- Field -->
+    <string name="br_short">ブ</string>
+    <string name="bk_short">書</string>
+    <string name="mg_short">雑</string>
+    <string name="rv_short">续</string>
+    <string name="bs_short">研</string>
+    
+    <!-- Publications -->
+    <string name="publications">出版物</string>
+    <string name="pubs_watchtower">ものみの塔</string>
+    <string name="pubs_awake">目ざめよ！</string>
+    <string name="pubs_books">書籍</string>
+    <string name="pubs_yearbooks">年鑑</string>
+    <string name="pubs_brochures">ブロシュアー</string>
+    <string name="pubs_booklets">小冊子</string>
+    <string-array name="pubs_array">
+        <item>ものみの塔</item>
+        <item>目ざめよ！</item>
+        <item>書籍</item>
+        <item>年鑑</item>
+        <item>ブロシュアー</item>
+        <item>小冊子</item>
+    </string-array>
+    
+    
+    <!-- Bible -->
+    <string-array name="bi_bk_array">
+        <item>創世記</item>
+        <item>出エジプト記</item>
+        <item>レビ記</item>
+        <item>民数記</item>
+        <item>申命記</item>
+        <item>ヨシュア記</item>
+        <item>裁き人の書</item>
+        <item>ルツ記</item>
+        <item>サムエル記 第一</item>
+        <item>サムエル記 第二</item>
+        <item>列王記 第一</item>
+        <item>列王記 第二</item>
+        <item>歴代誌 第一</item>
+        <item>歴代誌 第二</item>
+        <item>エズラ記</item>
+        <item>ネヘミヤ記</item>
+        <item>エステル記</item>
+        <item>ヨブ記</item>
+        <item>詩編</item>
+        <item>箴言</item>
+        <item>伝道の書</item>
+        <item>ソロモンの歌</item>
+        <item>イザヤ書</item>
+        <item>エレミヤ書</item>
+        <item>哀歌</item>
+        <item>エゼキエル書</item>
+        <item>ダニエル書</item>
+        <item>ホセア書</item>
+        <item>ヨエル書</item>
+        <item>アモス書</item>
+        <item>オバデヤ書</item>
+        <item>ヨナ書</item>
+        <item>ミカ書</item>
+        <item>ナホム書</item>
+        <item>ハバクク書</item>
+        <item>ゼパニヤ書</item>
+        <item>ハガイ書</item>
+        <item>ゼカリヤ書</item>
+        <item>マラキ書</item>
+        <item>マタイ</item>
+        <item>マルコ</item>
+        <item>ルカ</item>
+        <item>ヨハネ</item>
+        <item>使徒</item>
+        <item>ローマ</item>
+        <item>コリント 第一</item>
+        <item>コリント 第二</item>
+        <item>ガラテア</item>
+        <item>エフェソス</item>
+        <item>フィリピ</item>
+        <item>コロサイ</item>
+        <item>テサロニケ 第一</item>
+        <item>テサロニケ 第二</item>
+        <item>テモテ 第一</item>
+        <item>テモテ 第二</item>
+        <item>テトス</item>
+        <item>フィレモン</item>
+        <item>ヘブライ</item>
+        <item>ヤコブ</item>
+        <item>ペテロ 第一</item>
+        <item>ペテロ 第二</item>
+        <item>ヨハネ 第一</item>
+        <item>ヨハネ 第二</item>
+        <item>ヨハネ 第三</item>
+        <item>ユダ</item>
+        <item>啓示</item>
+    </string-array>
+    
+    <!-- Time -->
+    <string name="hours_short">时</string>
+    <string name="minutes_short">分</string>
+    <string name="today">今日</string>
+    
+    <!-- App Wide -->
+    <string name="app_name">mini聖書</string>
+    <string name="pubs_okm">わたしたちの王国宣教</string>
+</resources>
