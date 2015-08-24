@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/dialog_network_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/net_not_avail"
+        android:layout_margin="10dp"
+        android:textAppearance="?android:attr/textAppearanceMedium" 
+        />
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal" >
+        <Button
+            android:id="@+id/dialog_network_button_3g"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="@string/mobile" />
+		<Button
+            android:id="@+id/dialog_network_button_wifi"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="@string/wifi" />
+		<Button
+            android:id="@+id/dialog_network_button_cancel"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="@string/close" />
+    </LinearLayout>
+
+</LinearLayout>

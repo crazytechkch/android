@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/git/android/Evangelizer/crazyTechCommons/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="blue_4a6da7">#4a6da7</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="gray_bfbfbf">#bfbfbf</color>
+    <color name="green_008000">#008000</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#272727</color>
+    <color name="list_item_title">#fff</color>
+    <color name="red_ff0000">#ff0000</color>
+    <color name="white_90">#99ffffff</color>
+    <color name="white_tr">#ccffffff</color>
+    <!-- From: file:/D:/git/android/Evangelizer/crazyTechCommons/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="about_crazytech">About CrazyTech</string>
+    <string name="add">Add</string>
+    <string name="app_name">CrazyTechCommonsAndroid</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="camera">Camera</string>
+    <string name="cancel">Cancel</string>
+    <string name="clickToChange">TAP TO CHANGE</string>
+    <string name="close">Close</string>
+    <string name="confirm_cancel">Confirm cancel%1$s</string>
+    <string name="confirm_delete">Confirm delete%1$s</string>
+    <string name="create_user"><u>create new user</u></string>
+    <string name="date">Date</string>
+    <string name="date_time">Date &amp; Time</string>
+    <string name="day_mode">Day Mode</string>
+    <string name="deleted">Deleted</string>
+    <string name="download_failed">Download Failed</string>
+    <string name="download_started">Download Started</string>
+    <string name="downloaded">Downloaded</string>
+    <string name="end">End</string>
+    <string name="error">Error</string>
+    <string name="failed">Oops… Something went wrong</string>
+    <string name="finished">Finished %1$s</string>
+    <string name="finished_err">Finished %1$s with error(s)</string>
+    <string name="hello">Hello</string>
+    <string name="hide">Hide %1$s</string>
+    <string name="hours">Hour(s)</string>
+    <string name="hours_mins">%1$d hour(s) %2$d  minute(s)</string>
+    <string name="hours_mins_short">%1$dh%2$dm</string>
+    <string name="i_am">I\'m</string>
+    <string name="invalid_image">Invalid Image</string>
+    <string name="invalid_input">Invalid %1$s Input</string>
+    <string name="locale_de">Deutsche</string>
+    <string name="locale_en">English</string>
+    <string name="locale_es">Español</string>
+    <string name="locale_fr">Français</string>
+    <string name="locale_ja">日本語</string>
+    <string name="locale_ko">한국어</string>
+    <string name="locale_ms">Bahasa Melayu</string>
+    <string name="locale_zh">中文简体</string>
+    <string name="login">Login</string>
+    <string name="lookup_failed">Oopsy… Lookup Failed :(</string>
+    <string name="message">Message</string>
+    <string name="minutes">Minute(s)</string>
+    <string name="mobile">Mobile</string>
+    <string name="more">More</string>
+    <string name="name">Name</string>
+    <string name="net_not_avail">Network not available</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="no_memory">Not Enough Space</string>
+    <string name="no_pdf_viewer">No PDF viewer found in device</string>
+    <string name="not_found">not found</string>
+    <string name="ok">OK</string>
+    <string name="password">Password</string>
+    <string name="pause">Pause</string>
+    <string name="please_wait">Please Wait…</string>
+    <string name="recent_activities">Recent Activities</string>
+    <string name="refresh">Refresh %1$s</string>
+    <string name="refresh_all">Refresh All</string>
+    <string name="refreshing">Refreshing %1$s</string>
+    <string name="resume">Resume</string>
+    <string name="saved">Saved</string>
+    <string name="saving">Saving…</string>
+    <string name="saving_content">Saving content…</string>
+    <string name="saving_image">Saving image…</string>
+    <string name="select_gallery">Choose from Gallery</string>
+    <string name="select_picture">Select Picture</string>
+    <string name="show">Show %1$s</string>
+    <string name="start">Start</string>
+    <string name="success">Success</string>
+    <string name="time">Time</string>
+    <string name="timer">Timer</string>
+    <string name="type">Type</string>
+    <string name="username">Username</string>
+    <string name="wifi">WiFi</string>
+    <string name="your_name">Your Name</string>
+    <!-- From: file:/D:/git/android/Evangelizer/crazyTechCommons/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

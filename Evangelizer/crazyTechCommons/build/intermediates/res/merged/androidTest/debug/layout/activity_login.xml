@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:gravity="center">
+
+    <EditText
+        android:id="@+id/dialog_login_et_user"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/username"
+        android:gravity="center"
+        android:selectAllOnFocus="true">
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/dialog_login_et_pass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPassword" 
+        android:hint="@string/password"
+        android:gravity="center"
+        android:selectAllOnFocus="true"/>
+
+    <TextView
+        android:id="@+id/dialog_login_tv_createuser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/create_user" 
+        android:textStyle="italic"
+        android:clickable="true"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center" >
+
+        <Button
+            android:id="@+id/dialog_login_btn_cancel"
+            android:layout_weight="0.5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/cancel" />
+
+        <Button
+            android:id="@+id/dialog_login_btn_login"
+          	android:layout_weight="0.5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/login" />
+
+    </LinearLayout>
+
+</LinearLayout>
+<!-- From: file:/D:/git/android/Evangelizer/crazyTechCommons/src/main/res/layout/activity_login.xml --><!-- From: file:/D:/git/android/Evangelizer/crazyTechCommons/build/intermediates/bundles/debug/res/layout/activity_login.xml -->
