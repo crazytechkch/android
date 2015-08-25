@@ -1,0 +1,451 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:2:1-55:12
+	xmlns:android
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml
+		INJECTED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml
+		INJECTED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [miniBible:zip_file:unspecified] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\miniBible\zip_file\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [miniBible:library:unspecified] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\miniBible\library\unspecified\AndroidManifest.xml:22:5-24:41
+MERGED from [miniBible:crazyTechCommonsAndroid:unspecified] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\miniBible\crazyTechCommonsAndroid\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [miniBible:standOut:unspecified] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\miniBible\standOut\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appstate:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-cast:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:22.0.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:28:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-games:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:28:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:28:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-panorama:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-plus:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:28:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\AndroidManifest.xml:20:5-43
+MERGED from [com.androidmapsextensions:android-maps-extensions:2.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.androidmapsextensions\android-maps-extensions\2.2.0\AndroidManifest.xml:8:5-10:87
+	android:targetSdkVersion
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml
+		INJECTED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml
+		INJECTED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.androidmapsextensions:android-maps-extensions:2.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.androidmapsextensions\android-maps-extensions\2.2.0\AndroidManifest.xml:10:9-84
+uses-permission#com.wtlib.app.main.permission.MAPS_RECEIVE
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:10:2-78
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:10:19-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:11:5-97
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:11:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:12:2-77
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:23:5-80
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:23:5-80
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:23:5-80
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:12:19-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:13:2-75
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:13:19-73
+uses-permission#android.permission.INTERNET
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:14:5-66
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:15:5-78
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.READ_OWNER_DATA
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:16:5-73
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:16:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:17:5-80
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:5-80
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:5-80
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:5-80
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:18:5-78
+MERGED from [miniBible:standOut:unspecified] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\miniBible\standOut\unspecified\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:18:22-75
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:19:22-66
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:20:22-64
+uses-permission#com.sonyericsson.illumination.permission.ILLUMINATION
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:21:5-92
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:21:22-90
+application
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:22:5-54:19
+MERGED from [miniBible:crazyTechCommonsAndroid:unspecified] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\miniBible\crazyTechCommonsAndroid\unspecified\AndroidManifest.xml:11:5-19:19
+MERGED from [com.android.support:cardview-v7:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appstate:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:22.0.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:22.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\AndroidManifest.xml:22:5-20
+MERGED from [com.androidmapsextensions:android-maps-extensions:2.2.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.androidmapsextensions\android-maps-extensions\2.2.0\AndroidManifest.xml:12:5-20
+	android:label
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:25:9-41
+	android:allowBackup
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:23:9-35
+	android:icon
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:24:9-45
+	android:theme
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:26:9-40
+activity#com.crazytech.miniwl.MainActivity
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:27:9-36:20
+	android:label
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:29:13-45
+	android:configChanges
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:30:4-46
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:28:13-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:34:27-74
+activity#com.crazytech.miniwl.MyLoginActivity
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:37:9-82
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:37:19-70
+activity#com.crazytech.miniwl.ministry.MinistryEditActivity
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:38:9-96
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:38:19-84
+activity#com.crazytech.miniwl.ministry.MinistryListActivity
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:39:9-96
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:39:19-84
+activity#com.crazytech.miniwl.ministry.MinistryListActivityBs
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:40:9-98
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:40:19-86
+activity#com.crazytech.miniwl.ministry.MinistryListActivityRv
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:41:9-98
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:41:19-86
+activity#com.crazytech.miniwl.ministry.householder.HouseholderEditActivity
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:42:9-111
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:42:19-99
+activity#com.crazytech.miniwl.ministry.householder.HouseholderListActivity
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:43:9-111
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:43:19-99
+service#com.crazytech.miniwl.bible.BibleStandout
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:44:8-74
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:44:17-72
+service#com.crazytech.miniwl.daytext.DailyTextStandout
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:45:9-81
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:45:18-79
+service#com.crazytech.android.services.DownloadService
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:46:3-75
+MERGED from [miniBible:crazyTechCommonsAndroid:unspecified] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\miniBible\crazyTechCommonsAndroid\unspecified\AndroidManifest.xml:18:9-82
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:46:12-73
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:48:3-50:64
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:49:7-56
+	android:value
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:50:7-62
+meta-data#com.google.android.gms.version
+ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:51:3-53:62
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-base:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\AndroidManifest.xml:21:9-23:69
+	android:name
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:52:7-52
+	android:value
+		ADDED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:53:7-60
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [miniBible:library:unspecified] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\miniBible\library\unspecified\AndroidManifest.xml:26:5-73
+	android:name
+		ADDED from [miniBible:library:unspecified] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\miniBible\library\unspecified\AndroidManifest.xml:26:22-70
+activity#co.crazytech.android.activity.DatedContainerActivity
+ADDED from [miniBible:crazyTechCommonsAndroid:unspecified] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\miniBible\crazyTechCommonsAndroid\unspecified\AndroidManifest.xml:16:9-89
+	android:name
+		ADDED from [miniBible:crazyTechCommonsAndroid:unspecified] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\miniBible\crazyTechCommonsAndroid\unspecified\AndroidManifest.xml:16:19-86
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\AndroidManifest.xml:30:19-91
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
+MERGED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:24:5-26:33
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:26:8-31
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\AndroidManifest.xml:25:8-40
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\git\android\miniBible\miniWL\src\main\AndroidManifest.xml:2:1-55:12 reason: com.google.android.gms.maps requested WRITE_EXTERNAL_STORAGE
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:21:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:22:5-73
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:22:22-71
+meta-data#com.google.android.gms.wallet.api.enabled
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:25:9-27:36
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:26:13-69
+	android:value
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:27:13-33
+receiver#com.google.android.gms.wallet.EnableWalletOptimizationReceiver
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:28:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:29:13-90
+intent-filter#com.google.android.gms.wallet.ENABLE_WALLET_OPTIMIZATION
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:31:13-33:29
+action#com.google.android.gms.wallet.ENABLE_WALLET_OPTIMIZATION
+ADDED from [com.google.android.gms:play-services-wallet:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:32:17-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-wallet:7.5.0] D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\AndroidManifest.xml:32:25-96

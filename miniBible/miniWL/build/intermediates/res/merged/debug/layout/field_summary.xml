@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lifield_root"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+    android:padding="5dp">
+	
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:orientation="horizontal">
+		
+		<LinearLayout
+		    android:layout_weight="0.2"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content" 
+	        android:gravity="center_vertical">
+        
+	        <include layout="@layout/box_bk"/>
+	
+	        <TextView
+	            android:id="@+id/text_books"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="0"
+	            android:paddingLeft="3dp" />
+        </LinearLayout>
+        
+		<LinearLayout
+	        android:layout_weight="0.2"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content" 
+	        android:gravity="center_vertical">
+        
+	        <include layout="@layout/box_mg"/>
+	
+	        <TextView
+	            android:id="@+id/text_mags"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="0"
+	            android:paddingLeft="3dp" />
+        </LinearLayout>
+        
+		<LinearLayout
+	        android:layout_weight="0.2"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content" 
+	        android:gravity="center_vertical">
+        
+	        <include layout="@layout/box_br"/>
+	
+	        <TextView
+	            android:id="@+id/text_brochures"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="0"
+	            android:paddingLeft="3dp" />
+        </LinearLayout>
+        
+		<LinearLayout
+	        android:layout_weight="0.2"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content" 
+	        android:gravity="center_vertical">
+        
+	        <include layout="@layout/box_tr"/>
+	
+	        <TextView
+	            android:id="@+id/text_tract"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="0"
+	            android:paddingLeft="3dp" />
+        </LinearLayout>
+		
+       	<LinearLayout
+       	    android:id="@+id/mssum_rv"
+	        android:layout_weight="0.2"
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent" 
+	        android:gravity="center_vertical">
+        
+	        <include layout="@layout/box_rv"/>
+	
+	        <TextView
+	            android:id="@+id/textV_visits"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="0"
+	            android:paddingLeft="3dp" />
+        </LinearLayout>
+         <LinearLayout
+             android:id="@+id/mssum_bs"
+	        android:layout_weight="0.2"
+	        android:layout_width="0dp"
+	        android:layout_height="match_parent" 
+	        android:gravity="center_vertical">
+        
+	        <include layout="@layout/box_bs"/>
+	
+	        <TextView
+	            android:id="@+id/textV_studies"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="0"
+	            android:paddingLeft="3dp" />
+        </LinearLayout>
+        
+    </LinearLayout>
+</LinearLayout>
+<!-- From: file:/D:/git/android/miniBible/miniWL/src/main/res/layout/field_summary.xml -->

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linlay_daytext"
+	android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:custom="http://schemas.android.com/apk/res/com.wtlib.app.bible">
+    
+    <FrameLayout
+       	android:layout_weight="1"
+           android:layout_width="fill_parent"
+           android:background="@android:color/transparent"
+           android:layout_height="0dp">
+	    <WebView
+	        android:id="@+id/webV_daytext_1"
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent" />
+	     <ImageButton
+            android:id="@+id/btn_showdual"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center|bottom"
+            android:src="@drawable/langdual"
+            android:scaleType="fitCenter"
+            android:background="@drawable/background_sel"/>
+	     <ImageButton
+            android:id="@+id/btn_daytextLocale1"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="right|bottom"
+            android:src="@drawable/globe_trans"
+            android:scaleType="fitCenter"
+            android:background="@drawable/background_sel"/>
+    </FrameLayout>
+    <FrameLayout
+       	android:layout_weight="1"
+           android:layout_width="fill_parent"
+           android:layout_height="0dp"
+           android:id="@+id/daytext_frameLyt_locale2"
+           android:background="@android:color/transparent"
+           android:visibility="gone">
+	    <WebView
+	        android:id="@+id/webV_daytext_2"
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent" />
+	     <ImageButton
+            android:id="@+id/btn_daytextLocale2"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="right|bottom"
+            android:src="@drawable/globe_trans"
+            android:scaleType="fitCenter"
+            android:background="@drawable/background_sel"/>
+    </FrameLayout>
+
+   <ProgressBar
+       android:id="@+id/progBar_daytext"
+       style="?android:attr/progressBarStyleHorizontal"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content" 
+       android:visibility="gone"/>
+
+	<LinearLayout
+	    android:id="@+id/linlay_daytext_buttons"
+		android:layout_width="fill_parent"
+  	 	android:layout_height="30dip"
+	   	android:weightSum="1.0"
+	   	android:gravity="center_horizontal|bottom">
+		<ImageButton
+		    android:id="@+id/btn_daytext_prev"
+			android:layout_weight=".33"
+			android:layout_width="0dip"
+			android:layout_height="match_parent"
+			android:layout_marginLeft="1dip"
+			android:src="@drawable/arrow_left"
+			android:scaleType="fitCenter"
+			android:background="@drawable/background_sel"/>
+
+		<Button
+		    android:id="@+id/btn_daytext_today"
+		    android:layout_width="wrap_content"
+		    android:background="@drawable/background_sel"
+		    android:layout_height="match_parent"
+		    android:layout_weight=".33"
+		    android:text="@string/today" />
+
+      	<ImageButton
+		    android:id="@+id/btn_daytext_next"
+			android:layout_weight=".33"
+			android:layout_width="0dip"
+			android:layout_height="match_parent"
+			android:layout_marginLeft="1dip"
+			android:src="@drawable/arrow_right"
+			android:scaleType="fitCenter"
+			android:background="@drawable/background_sel"/>
+	  </LinearLayout>
+</LinearLayout><!-- From: file:/D:/git/android/miniBible/miniWL/src/main/res/layout/fragment_daytext.xml -->

@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nav Menu -->
+    <string name="drawer_open">目录已开启</string>
+    <string name="drawer_close">目录已关闭</string>
+    
+    <!-- Install Bible -->
+    <string name="copy_bible_pack">复制圣经数据包…</string>
+    <string name="install_daytext">正在安装每日经文</string>
+    <string name="install_bible">安装圣经…需数分钟完成</string>
+    
+    <!-- Bible -->
+    <string name="bible">圣经</string>
+    <string name="chapter">章</string>
+    <string name="verse">节</string>
+     <string-array name="bi_bk_array">
+        <item>创世记</item>
+        <item>出埃及记</item>
+        <item>利未记</item>
+        <item>民数记</item>
+        <item>申命记</item>
+        <item>约书亚记</item>
+        <item>士師记</item>
+        <item>路得记</item>
+        <item>撒母耳记上</item>
+        <item>撒母耳记下</item>
+        <item>列王紀上</item>
+        <item>列王紀下</item>
+        <item>历代志上</item>
+        <item>历代志下</item>
+        <item>以斯拉记</item>
+        <item>尼希米记</item>
+        <item>以斯帖记</item>
+        <item>约伯记</item>
+        <item>诗篇</item>
+        <item>箴言</item>
+        <item>传道书</item>
+        <item>雅歌</item>
+        <item>以賽亚书</item>
+        <item>耶利米书</item>
+        <item>耶利米哀歌</item>
+        <item>以西結书</item>
+        <item>但以理书</item>
+        <item>何西阿书</item>
+        <item>约珥书</item>
+        <item>阿摩司书</item>
+        <item>俄巴底亚书</item>
+        <item>约拿书</item>
+        <item>弥迦书</item>
+        <item>那鴻书</item>
+        <item>哈巴谷书</item>
+        <item>西番雅书</item>
+        <item>哈该书</item>
+        <item>撒迦利亚书</item>
+        <item>玛拉基书</item>
+        <item>马太福音</item>
+        <item>马可福音</item>
+        <item>路加福音</item>
+        <item>约翰福音</item>
+        <item>使徒行传</item>
+        <item>罗马书</item>
+        <item>哥林多前书</item>
+        <item>哥林多后书</item>
+        <item>加拉太书</item>
+        <item>以弗所书</item>
+        <item>腓立比书</item>
+        <item>歌罗西书</item>
+        <item>帖撒罗尼迦前书</item>
+        <item>帖撒罗尼迦后书</item>
+        <item>提摩太前书</item>
+        <item>提摩太后书</item>
+        <item>提多书</item>
+        <item>腓利門书</item>
+        <item>希伯來书</item>
+        <item>雅各书</item>
+        <item>彼得前书</item>
+        <item>彼得后书</item>
+        <item>约翰一书</item>
+        <item>约翰二书</item>
+        <item>约翰三书</item>
+        <item>犹大书</item>
+        <item>启示录</item>
+    </string-array>
+    
+    <!-- Floating Window -->
+    <string name="float_daytext">精简版 每日经文</string>
+    <string name="float_bible">精简版 圣经</string>
+    <string name="exit_app">退出 迷你WL</string>
+    <string name="go_to_app">进入 迷你WL</string>
+    
+    <!-- Daily Text -->
+	<string name="daily_text">每日经文</string>
+    
+    <!-- Ministry -->
+    <string name="field">传道</string>
+    <string name="field_records">传道记录</string>
+    <string name="add_field_record">添加传道记录</string>
+    <string name="add_householder">添加住户</string>
+    <string name="householder">住户</string>
+    <string name="br_short">册</string>
+    <string name="bk_short">书</string>
+    <string name="mg_short">杂</string>
+    <string name="rv_short">续</string>
+    <string name="bs_short">研</string>
+    <string name="fm_short">传</string>
+    <string name="magazines">杂志</string>
+    <string name="rv">续访</string>
+    <string name="bs">圣经研究</string>
+    <string name="visits">探访</string>
+    <string name="my_ministry">我的服事职务</string>
+    <string name="field_service_report">传道报告</string>
+    <string name="overseer_name">监督名字</string>
+    <string name="ms_sum_time">本月奉献了 %1$s 传道</string>
+    <string name="ms_c_time">用了 %1$s</string>
+    <string name="ms_c_pubs">分发了 %1$s 本书刊</string>
+    <string name="ms_c_rv">记录了 %1$s 个续访</string>
+    <string name="ms_bs">主持了 %1$s 个圣经研究</string>
+    <string name="ms_rv">完成了 %1$s 个续访</string>
+    <string name="ms_areBs">%1$s 个是圣经研究</string>
+    <string name="ms_pending">%1$s 个未完成</string>
+    <string name="ms_goal">我的目标</string>
+    <string name="ms_goal_hours">用  %1$s(%2$s) 小时向人作见证</string>
+    <string name="ms_goal_bs">主持 %1$s(%2$s) 个圣经研究</string>
+    <string name="ms_goal_rv">完成 %1$s(%2$s) 个续访</string>
+    <string name="ms_goal_pubs">我要分发 %1$s(%2$s) 本书刊</string>
+    <string name="hours_in_ministry">传道时数</string>
+    <string name="preaching">正在宣扬好消息</string>
+    <string name="bible_student">圣经学生</string>
+    
+     <!-- Map -->
+    <string name="set_as_home">设为我的居所</string>
+    <string name="set_householder">设置住户</string>
+    
+    <!-- Publications -->
+    <string name="publications">出版物</string>
+    <string name="pubs_watchtower">守望台</string>
+    <string name="pubs_awake">警醒!</string>
+    <string name="pubs_books">书籍</string>
+    <string name="pubs_yearbooks">年鉴</string>
+    <string name="pubs_brochures">册子</string>
+    <string name="pubs_booklets">册子(小)</string>
+    <string name="pubs_tract">单张</string>
+    <string name="issue_year">出版年</string>
+    <string name="issue_month">出版月</string>
+    <string name="issue_day">出版日</string>
+    <string name="issue_of_the_month">本月研读的守望台</string>
+    <string-array name="pubs_array">
+        <item>守望台</item>
+        <item>警醒!</item>
+        <item>书籍</item>
+        <item>年鉴</item>
+        <item>册子</item>
+        <item>册子(小)</item>
+    </string-array>
+    
+    <!-- WOL -->
+    <string name="wol">守望台线上书库</string>
+    <string name="load_wol">正载入 守望台线上书库</string>
+    
+     <!-- Householder --> 
+    <string name="street_name">街名</string>
+    <string name="address">地址</string>
+    <string name="house_to_house">逐家逐户</string>
+    <string name="house_apt_no">房子 / 寓所号码</string>
+    <string name="date">日期</string>
+    <string name="name_first">名字</string>
+    <string name="name_last">姓氏</string>
+    <string name="set_date">设定日期</string>
+    <string name="placement">分发书刊</string>
+    <string name="remarks">备注</string>
+    <string name="age">年龄</string>
+    <string name="gender">性别</string>
+    <string name="symbol">标记</string>
+    <string name="not_home">不在家</string>
+    <string name="busy">忙碌</string>
+    <string name="call_again">再联络</string>
+    <string-array name="array_gender">
+        <item>性别</item>
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <string name="send_sms">发送简讯</string>
+    <string name="send_email">发送电邮</string>
+    <string name="new_field_service">新传道任务</string>
+    <string name="name">姓名</string>
+    <string name="territory_name">传道地区</string>
+    <string name="done">完成</string>
+    <string name="cancel">取消</string>
+    <string name="informal_witnessing">非正式见证</string>
+    <string name="return_visit">续访</string>
+    <string name="bible_study">圣经研究</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="not_ended">未结束…</string>
+    <string name="contact">联络资料</string>
+    <string name="phone_main">主要电话</string>
+    <string name="phone_home">住家电话</string>
+    <string name="email">电邮</string>
+    <string name="preferred_language">首先语言</string>
+    <string name="country_of_origin">祖籍国家</string>
+    <string name="next_visit">后会有期</string>
+     <string name="next_visit_neg">后会无期</string>
+    <string name="no_contact">暂无联络号码</string>
+    
+    <!-- Map -->
+    <string name="map">地图</string>
+    
+    <!-- Locale -->
+    
+    <!-- PDF -->
+     <string name="open_pdf">打开 PDF</string>
+    <string-array name="pdf_dialog">
+        <item>打开 PDF</item>
+        <item>删除</item>
+    </string-array>
+    
+    <!-- Time -->
+    <string name="year">年</string>
+    <string name="month">月</string>
+    <string name="hours_short">小时</string>
+    <string name="minutes_short">分钟</string>
+    <string name="duration">时数</string>
+    <string name="start_date_time">开始日期与时间</string>
+    <string name="end_date_time">结束日期与时间</string>
+    <string name="today">今日</string>
+    
+    <!-- App Wide -->
+    <string name="app_name">mini圣经</string>
+    <string name="action_settings">设置</string>
+   	<string name="language">语言</string>
+    <string name="about_text">©CrazyTech, Kuching
+        \n\n无广告 完全免费!!
+        \n\n请浏览 <a href="http://mbi.crazytech.co">mbi.crazytech.co</a>
+       	免费下载 或电邮至 support@crazytech.co 提供您宝贵的意见</string>
+    <string name="search">搜索</string>
+    <string name="view">查看</string>
+    <string name="edit">编辑</string>
+    <string name="delete">删除</string>
+    <string name="delete_all">全部删除</string>
+    <string name="confirm_delete">确定删除</string>
+    <string name="confirm_delete_all">确定删除全部?</string>
+    <string name="none">不存在</string>
+    <string name="close">关闭</string>
+    <string name="downloading">下载中…</string>
+    <string name="download_start">下载开始…</string>
+    <string name="download_failed">下载失败</string>
+    <string name="download_completed">下载完成!</string>
+    <string name="download_cancel">取消下载?</string>
+    <string name="download_cancelled">下载已取消</string>
+    <string name="file_deleted">成功删除</string>
+    <string name="server_conn_failed">连接失败…</string>
+    <string name="yup">嗯</string>
+    <string name="nope">不了</string>
+    <string name="btn_ok">确定</string>
+    <string name="btn_back">返回</string>
+    <string name="file_not_found">找不到文件</string>
+    <string name="hidden">已隐藏</string>
+    <string name="initialising">正在初始化</string>
+    <string name="installing">正在安装</string>
+    <string name="network_not_available">无可用网络</string>
+    <string name="network_not_available_text">看来您还未连接互联网。请连接网络。</string>
+    <string name="no_pdf_viewer">找不到可用的PDF浏览器</string>
+    <string name="not_found">未找到</string>
+    <string name="popout">漂浮</string>
+    <string name="tap_to_close">点击关闭</string>
+    <string name="tap_to_restore">点击还原</string>
+    <string name="no_text">经文不存在</string>
+    <string name="loading">载入中</string>
+    <string name="check_update">检测更新</string>
+    <string name="check_version">检测当前版本…</string>
+    <string name="updating">正在更新…</string>
+    <string name="downloading_apk">正在下载新版本…</string>
+    <string name="is_latest">正使用最新版本!</string>
+   	<string name="successful">成功!</string>
+    <string name="version">版本</string>
+    <string name="backup">备份</string>
+    <string name="performing_backup">备份中</string>
+	<string name="restore">复原</string>
+	<string name="restoring">复原中</string>
+	<string name="thank_you">谢谢</string>
+	<string name="exit_app_confirm">您要关闭%1$s吗?</string>
+	
+	<string name="pubs_okm">王国传道月报</string>
+	<string name="tr_short">单</string>
+</resources>

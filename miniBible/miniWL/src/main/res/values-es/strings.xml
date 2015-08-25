@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="today">HOY</string>
+    
+    <!-- nav menu items -->
+    <string name="daily_text">Texto Diario</string>
+    <string name="bible">Biblia</string>
+    <string name="search">Buscar</string>
+    <string name="wol">Biblioteca en Línea</string>
+    
+    <!-- Field -->
+    <string name="br_short">Fo</string>
+    <string name="bk_short">Li</string>
+    <string name="mg_short">Re</string>
+    
+    <!-- Publications -->
+    <string name="publications">Publicaciones</string>
+    <string name="pubs_watchtower">Atalaya</string>
+    <string name="pubs_awake">¡Despertad!</string>
+    <string name="pubs_books">Libros</string>
+    <string name="pubs_yearbooks">Anuarios</string>
+    <string name="pubs_brochures">Folletos grandes</string>
+    <string name="pubs_booklets">Folletos pequeños</string>
+    <string-array name="pubs_array">
+        <item>Atalaya</item>
+        <item>¡Despertad!</item>
+        <item>Libros</item>
+        <item>Anuarios</item>
+        <item>Folletos grandes</item>
+        <item>Folletos pequeños</item>
+    </string-array>
+    
+    <!-- Bible -->
+    <string-array name="bi_bk_array">
+        <item>Génesis</item>
+        <item>Éxodo</item>
+        <item>Levítico</item>
+        <item>Números</item>
+        <item>Deuteronomio</item>
+        <item>Josué</item>
+        <item>Jueces</item>
+        <item>Rut</item>
+        <item>1 Samuel</item>
+        <item>2 Samuel</item>
+        <item>1 Reyes</item>
+        <item>2 Reyes</item>
+        <item>1 Crónicas</item>
+        <item>2 Crónicas</item>
+        <item>Esdras</item>
+        <item>Nehemías</item>
+        <item>Ester</item>
+        <item>Job</item>
+        <item>Salmos</item>
+        <item>Proverbios</item>
+        <item>Eclesiastés</item>
+        <item>El Cantar de los Cantares</item>
+        <item>Isaías</item>
+        <item>Jeremías</item>
+        <item>Lamentaciones</item>
+        <item>Ezequiel</item>
+        <item>Daniel</item>
+        <item>Oseas</item>
+        <item>Joel</item>
+        <item>Amós</item>
+        <item>Abdías</item>
+        <item>Jonás</item>
+        <item>Miqueas</item>
+        <item>Nahúm</item>
+        <item>Habacuc</item>
+        <item>Sofonías</item>
+        <item>Ageo</item>
+        <item>Zacarías</item>
+        <item>Malaquías</item>
+        <item>Mateo</item>
+        <item>Marcos</item>
+        <item>Lucas</item>
+        <item>Juan</item>
+        <item>Hechos</item>
+        <item>Romanos</item>
+        <item>1 Corintios</item>
+        <item>2 Corintios</item>
+        <item>Gálatas</item>
+        <item>Efesios</item>
+        <item>Filipenses</item>
+        <item>Colosenses</item>
+        <item>1 Tesalonicenses</item>
+        <item>2 Tesalonicenses</item>
+        <item>1 Timoteo</item>
+        <item>2 Timoteo</item>
+        <item>Tito</item>
+        <item>Filemón</item>
+        <item>Hebreos</item>
+        <item>Santiago</item>
+        <item>1 Pedro</item>
+        <item>2 Pedro</item>
+        <item>1 Juan</item>
+        <item>2 Juan</item>
+        <item>3 Juan</item>
+        <item>Judas</item>
+        <item>Revelación</item>
+    </string-array>
+    
+    <!-- others -->
+    <string name="hours_short">h</string>
+    <string name="minutes_short">min</string>
+    
+     <!-- App Wide -->
+    <string name="app_name">miniBIBLIA</string>
+    <string name="pubs_okm">Nuestro Ministerio del Reino </string>
+</resources>

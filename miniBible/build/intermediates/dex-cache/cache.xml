@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\git\android\miniBible\miniWL\build\intermediates\exploded-aar\com.androidmapsextensions\android-maps-extensions\2.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0a79308f67e2659591969ceca2979a673d2c3536">
+        <dex dex="D:\git\android\miniBible\miniWL\build\intermediates\pre-dexed\debug\classes-db47cd5c2302dc0eccb0f08fea6d7e8b2e52561b.jar" />
+    </item>
+
+</items>

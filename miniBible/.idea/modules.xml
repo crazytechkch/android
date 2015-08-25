@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/crazyTechCommonsAndroid/crazyTechCommonsAndroid.iml" filepath="$PROJECT_DIR$/crazyTechCommonsAndroid/crazyTechCommonsAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniBible.iml" filepath="$PROJECT_DIR$/miniBible.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniWL/miniWL.iml" filepath="$PROJECT_DIR$/miniWL/miniWL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/standOut/standOut.iml" filepath="$PROJECT_DIR$/standOut/standOut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zip_file/zip_file.iml" filepath="$PROJECT_DIR$/zip_file/zip_file.iml" />
+    </modules>
+  </component>
+</project>

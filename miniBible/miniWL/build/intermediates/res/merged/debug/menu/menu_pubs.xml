@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/refresh"
+        android:title="@string/refresh"/>
+    <item android:id="@+id/refresh_all"
+        android:title="@string/refresh_all"/>
+</menu><!-- From: file:/D:/git/android/miniBible/miniWL/src/main/res/menu/menu_pubs.xml -->

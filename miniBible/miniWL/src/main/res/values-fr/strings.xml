@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- nav menu items -->
+    <string name="daily_text">Texte du Jour</string>
+    <string name="bible">Bible</string>
+    <string name="search">Rechercher</string>
+    <string name="wol">Bibliothèque en Ligne</string>
+    
+    <!-- Field -->
+    <string name="br_short">Br</string>
+    <string name="bk_short">Li</string>
+    <string name="mg_short">Mg</string>
+    
+    <!-- Publications -->
+    <string name="publications">Publications</string>
+    <string name="pubs_watchtower">Tour de Garde</string>
+    <string name="pubs_awake">Réveillez-vous!</string>
+    <string name="pubs_books">Livres</string>
+    <string name="pubs_yearbooks">Annuaires</string>
+    <string name="pubs_brochures">Brochures (format périodique)</string>
+    <string name="pubs_booklets">Brochures</string>
+    <string-array name="pubs_array">
+        <item>Tour de Garde</item>
+        <item>Réveillez-vous!</item>
+        <item>Livres</item>
+        <item>Annuaires</item>
+        <item>Brochures (format périodique)</item>
+        <item>Brochures</item>
+    </string-array>
+    
+    <!-- Bible -->
+    <string-array name="bi_bk_array">
+        <item>Genèse</item>
+        <item>Exode</item>
+        <item>Lévitique</item>
+        <item>Nombres</item>
+        <item>Deutéronome</item>
+        <item>Josué</item>
+        <item>Juges</item>
+        <item>Ruth</item>
+        <item>1 Samuel</item>
+        <item>2 Samuel</item>
+        <item>1 Rois</item>
+        <item>2 Rois</item>
+        <item>1 Chroniques</item>
+        <item>2 Chroniques</item>
+        <item>Ezra</item>
+        <item>Nehémia</item>
+        <item>Esther</item>
+        <item>Job</item>
+        <item>Psaumes</item>
+        <item>Proverbes</item>
+        <item>Ecclésiaste</item>
+        <item>Chant de Salomon</item>
+        <item>Isaïe</item>
+        <item>Jérémie</item>
+        <item>Lamentations</item>
+        <item>Ézékiel</item>
+        <item>Daniel</item>
+        <item>Hoshéa</item>
+        <item>Yoël</item>
+        <item>Amos</item>
+        <item>Obadia</item>
+        <item>Yona</item>
+        <item>Mika</item>
+        <item>Nahoum</item>
+        <item>Habaqouq</item>
+        <item>Tsephania</item>
+        <item>Haggai</item>
+        <item>Zekaria</item>
+        <item>Malaki</item>
+        <item>Matthieu</item>
+        <item>Marc</item>
+        <item>Luc</item>
+        <item>Jean</item>
+        <item>Actes</item>
+        <item>Romains</item>
+        <item>1 Corinthiens</item>
+        <item>2 Corinthiens</item>
+        <item>Galates</item>
+        <item>Éphésiens</item>
+        <item>Philippiens</item>
+        <item>Colossiens</item>
+        <item>1 Thessaloniciens</item>
+        <item>2 Thessaloniciens</item>
+        <item>1 Timothée</item>
+        <item>2 Timothée</item>
+        <item>Tite</item>
+        <item>Philémon</item>
+        <item>Hébreux</item>
+        <item>Jacques</item>
+        <item>1 Pierre</item>
+        <item>2 Pierre</item>
+        <item>1 Jean</item>
+        <item>2 Jean</item>
+        <item>3 Jean</item>
+        <item>Jude</item>
+        <item>Révélation</item>
+    </string-array>
+    
+    <!-- Time -->
+    <string name="hours_short">h</string>
+    <string name="minutes_short">min</string>
+    <string name="today">Aujourd´hui</string>
+    
+     <!-- App Wide -->
+    <string name="app_name">miniBIBLE</string>
+    <string name="pubs_okm">Le ministère du Royaume</string>
+</resources>

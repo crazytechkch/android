@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal">
+    <ImageButton
+	    android:id="@+id/pubs_curr_imbtn"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:scaleType="fitCenter"
+	    android:background="@drawable/background_sel"
+	    android:src="@drawable/ic_pubs"/>
+
+   <LinearLayout
+	    android:id="@+id/pubs_curr_downovr"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    android:background="@color/white_tr"
+	    android:visibility="gone">
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:gravity="center"
+           android:text="@string/downloaded"
+           android:textAllCaps="true"/>
+	    
+   </LinearLayout>
+	
+    <LinearLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentBottom="true"
+	    android:orientation="vertical"
+	    android:background="@color/white_tr">
+	   <TextView
+	       android:id="@+id/pubs_curr_title"
+	       android:layout_width="match_parent"
+	       android:layout_height="wrap_content"
+	       android:gravity="center"
+	       android:text="@string/publications"/>
+	</LinearLayout>
+</RelativeLayout>
+<!-- From: file:/D:/git/android/miniBible/miniWL/src/main/res/layout/listitem_pub_image_button.xml -->

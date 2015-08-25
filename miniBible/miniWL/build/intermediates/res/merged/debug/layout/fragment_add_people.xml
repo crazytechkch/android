@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="right"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/householder"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <ScrollView
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:paddingLeft="3dp"
+        android:paddingRight="3dp">
+
+	    <LinearLayout
+		    android:layout_width="match_parent"
+		    android:layout_height="wrap_content"
+		    android:orientation="vertical" >
+		
+		
+		    <Spinner
+		        android:id="@+id/addppl_spn_ministry"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content" />
+		
+		    <LinearLayout
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content" >
+		
+		        <EditText android:selectAllOnFocus="true"
+		            android:id="@+id/addppl_et_name"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"
+		            android:layout_weight="1"
+		            android:ems="10"
+		            android:hint="@string/name" >
+					<requestFocus/>
+				</EditText>
+		
+		    </LinearLayout>
+		
+		    <LinearLayout
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content" 
+		        android:weightSum="1">
+		
+		        <Spinner
+		            android:id="@+id/addppl_spinner_age"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"
+		            android:layout_weight=".33"
+		            android:prompt="@string/age" />
+		
+		        <Spinner
+		            android:id="@+id/addppl_spinner_gender"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"
+		            android:layout_weight=".33"
+		            android:prompt="@string/gender" />
+		
+		        <Spinner
+		            android:id="@+id/addppl_spinner_othersymbol"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"
+		            android:layout_weight=".33"
+		            android:prompt="@string/symbol" />
+		
+		    </LinearLayout>
+
+		    <LinearLayout
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content" >
+
+		        <CheckBox
+		            android:id="@+id/addppl_cb_bistudy"
+		            android:layout_width="wrap_content"
+		            android:layout_height="wrap_content"
+		            android:text="@string/bible_study" />
+
+		        <LinearLayout
+		            android:layout_width="match_parent"
+		            android:layout_height="match_parent"
+		            android:gravity="right"
+		            android:orientation="vertical" >
+
+		            <ImageButton
+		                android:id="@+id/addppl_btn_map"
+		                android:layout_width="wrap_content"
+		                android:layout_height="match_parent"
+		                android:src="@drawable/ic_map" 
+		                android:background="@drawable/background_sel"
+		                android:visibility="gone"/>
+		        </LinearLayout>
+
+		    </LinearLayout>
+		
+		    <EditText android:selectAllOnFocus="true"
+		        android:id="@+id/addppl_et_language"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:hint="@string/preferred_language"
+		        android:ems="10" />
+		
+		    <EditText android:selectAllOnFocus="true"
+		        android:id="@+id/addppl_et_country"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:ems="10"
+		        android:hint="@string/country_of_origin" />
+		
+		    <TextView
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text="@string/remarks"
+		        android:textAppearance="?android:attr/textAppearanceMedium" />
+		
+		    <EditText android:selectAllOnFocus="true"
+		        android:id="@+id/addppl_et_remarks"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:ems="10"
+		        android:hint="@string/remarks"
+		        android:inputType="textMultiLine" />
+		    
+		    <TextView
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text="@string/contact"
+		        android:textAppearance="?android:attr/textAppearanceMedium" />
+		
+		    <EditText
+		        android:id="@+id/addppl_et_phonemain"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:ems="10"
+		        android:hint="@string/phone_main"
+		        android:inputType="phone"
+		        android:selectAllOnFocus="true"
+		        android:singleLine="true" />
+		
+		    <EditText
+		        android:id="@+id/addppl_et_phonehome"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:ems="10"
+		        android:hint="@string/phone_home"
+		        android:inputType="phone"
+		        android:selectAllOnFocus="true"
+		        android:singleLine="true" />
+		
+		    <EditText
+		        android:id="@+id/addppl_et_email"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:ems="10"
+		        android:hint="@string/email"
+		        android:inputType="textEmailAddress"
+		        android:selectAllOnFocus="true"
+		        android:singleLine="true" />
+		
+		    <TextView
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text="@string/address"
+		        android:textAppearance="?android:attr/textAppearanceMedium" />
+		
+		    <EditText android:selectAllOnFocus="true"
+		        android:id="@+id/addppl_et_houseaptno"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:ems="10"
+		        android:hint="@string/house_apt_no"
+		        android:singleLine="true" />
+		
+		    <EditText android:selectAllOnFocus="true"
+		        android:id="@+id/addppl_et_street_name"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:ems="10"
+		        android:hint="@string/street_name" />
+		
+		    <EditText android:selectAllOnFocus="true"
+		        android:id="@+id/addppl_et_territoryname"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:ems="10"
+		        android:hint="@string/territory_name" />
+		
+		
+		</LinearLayout>
+        
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/addppl_btn_done"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/done" />
+
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/D:/git/android/miniBible/miniWL/src/main/res/layout/fragment_add_people.xml -->

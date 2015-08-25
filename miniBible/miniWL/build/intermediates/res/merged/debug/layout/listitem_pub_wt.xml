@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res/com.crazytech.custom.ui"
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+
+     <TextView
+        android:id="@+id/tv_list_item_pub_wt"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:padding="10dp"
+	    android:textSize="16sp"
+	    android:gravity="center_horizontal"/>
+     
+     <LinearLayout
+	    android:layout_width="fill_parent" 
+	    android:layout_height="fill_parent"
+	    android:orientation="vertical"
+	    android:gravity="center">
+
+         <GridView
+            android:id="@+id/gv_pubs_wt_thumbs"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:verticalSpacing="10dp"
+    		android:horizontalSpacing="10dp"
+            android:stretchMode="columnWidth"
+		 	android:gravity="center"
+            android:numColumns="2" />
+     
+    </LinearLayout>    
+</LinearLayout><!-- From: file:/D:/git/android/miniBible/miniWL/src/main/res/layout/listitem_pub_wt.xml -->
